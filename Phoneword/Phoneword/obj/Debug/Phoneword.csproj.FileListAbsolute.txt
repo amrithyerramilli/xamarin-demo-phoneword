@@ -1,0 +1,11 @@
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Phoneword.pdb
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Core.xml
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.csprojResolveAssemblyReference.cache
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\obj\Debug\MainPage.xaml.g.cs
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword\obj\Debug\CallHistoryPage.xaml.g.cs

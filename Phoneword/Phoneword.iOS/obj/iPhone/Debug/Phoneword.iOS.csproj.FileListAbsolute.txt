@@ -1,0 +1,13 @@
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\PhonewordiOS.exe
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\PhonewordiOS.pdb
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Phoneword.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Phoneword.pdb
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\Phoneword.iOS.csprojResolveAssemblyReference.cache
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\PhonewordiOS.exe
+E:\Development\xhacknight\Phoneword\Phoneword\Phoneword.iOS\obj\iPhone\Debug\PhonewordiOS.pdb
